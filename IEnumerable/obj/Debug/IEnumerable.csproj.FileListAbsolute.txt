@@ -1,0 +1,7 @@
+C:\Users\mirce\source\repos\IEnumerable\IEnumerable\bin\Debug\IEnumerable.exe.config
+C:\Users\mirce\source\repos\IEnumerable\IEnumerable\bin\Debug\IEnumerable.exe
+C:\Users\mirce\source\repos\IEnumerable\IEnumerable\bin\Debug\IEnumerable.pdb
+C:\Users\mirce\source\repos\IEnumerable\IEnumerable\obj\Debug\IEnumerable.csprojAssemblyReference.cache
+C:\Users\mirce\source\repos\IEnumerable\IEnumerable\obj\Debug\IEnumerable.csproj.CoreCompileInputs.cache
+C:\Users\mirce\source\repos\IEnumerable\IEnumerable\obj\Debug\IEnumerable.exe
+C:\Users\mirce\source\repos\IEnumerable\IEnumerable\obj\Debug\IEnumerable.pdb
